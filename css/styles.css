@@ -1,0 +1,28 @@
+.fox{
+  float: left;
+  padding-right: 10px;
+  padding-left: 18px;
+  width: 299px;
+}
+.fox img{
+  height: 168px;
+  width: 299px;
+}
+.fox h1{
+  font-size: 2em;
+  font-family: verdana;
+}
+.main-heading{
+  font-size: 5em;
+  font-family: verdana;
+  text-align: center;
+  text-shadow: 3px 3px #ffff99;
+}
+body{
+  background-color: #26734d;
+}
+.subheading{
+  text-align: center;
+  font-family: verdana;
+  font-size: 3em;
+}
