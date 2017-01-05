@@ -1,12 +1,15 @@
 .fox{
   float: left;
-  padding-right: 10px;
-  padding-left: 18px;
-  width: 299px;
+  padding-right: 13px;
+  padding-left: 13px;
+  width: 280px;
+  border: 10px #339966;
+  border-style: outset;;
+  margin: 4px;
 }
 .fox img{
   height: 168px;
-  width: 299px;
+  width: 280px;
 }
 .fox h1{
   font-size: 2em;
@@ -18,11 +21,31 @@
   text-align: center;
   text-shadow: 3px 3px #ffff99;
 }
-body{
-  background-color: #26734d;
-}
+
 .subheading{
   text-align: center;
   font-family: verdana;
   font-size: 3em;
+}
+.sidebar{
+  background-color: #ffff99;
+  width: 400px;
+  height: 500px;
+  clear: left;
+  margin-left: 260px;
+
+}
+.sidebar h1 {
+  font-size: 3em;
+  font-family: verdana;
+  font-style: oblique;
+}
+.sidebar p {
+  font-size: 3em;
+  font-family: verdana;
+  font-style: oblique;
+}
+.mammoth{
+  float: right;
+
 }
